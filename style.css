@@ -1011,7 +1011,7 @@ a:hover {
     .headerbox {
         margin: 0px;
         margin-left: 10px;
-        gap: 20%;
+        gap: 15%;
         display: block;
         display: flex;
     }
@@ -1963,3 +1963,4 @@ a:hover {
     }
 
 }
+
